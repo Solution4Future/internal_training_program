@@ -7,11 +7,12 @@ Python package manager
 ======================
 
 How to install python libraries::
+
     pip install <lib name>
 
 Uninstall::
 
-pip uninstall <lib name>
+    pip uninstall <lib name>
 
 Creating requirements.txt file with all names of libraries and versions is good practice::
 
@@ -26,7 +27,7 @@ To intstall dependencies from file execute command::
 
     $ pip install -r requirements.txt
 
-To freeze state of environment to file execute command:
+To freeze state of environment to file execute command::
 
     $ pip freeze >> output_file.txt
 
@@ -46,13 +47,14 @@ Instalation
 
 Python package::
 
-    sudo pip install virtualenv
+    $ sudo pip install virtualenv
 
 or::
 
-    sudo apt-get install python-virtualenv
+    $ sudo apt-get install python-virtualenv
 
 On other systems:
+
     (http://www.virtualenv.org/en/latest/#installation)
 
 Create and activate
@@ -72,7 +74,7 @@ Activate::
     $ cd example-virtualenv
     $ source bin/activate
 
-Verify:
+Verify::
 
     (example-virtualenv)~/.virtuals/example-virtualenv$
 
