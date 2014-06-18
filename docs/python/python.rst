@@ -40,21 +40,21 @@ Day 2.
 ------
 
 The following chapters from official Python tutorial (https://docs.python.org/2/tutorial/):
- - 1. Whetting Your Appetite
- - 2. Using the Python Interpreter
- - 3. An Informal Introduction to Python
- - 4. More Control Flow Tools
- - 5. Data Structures
+ 1. Whetting Your Appetite
+ 2. Using the Python Interpreter
+ 3. An Informal Introduction to Python
+ 4. More Control Flow Tools
+ 5. Data Structures
 
 Day 3.
 ------
 The following chapters from official Python tutorial (https://docs.python.org/2/tutorial/):
- - 6. Modules
- - 7. Input and Output
- - 8. Errors and Exceptions
- - 9. Classes
- - 10. Brief Tour of the Standard Library
- - 11. Brief Tour of the Standard Library – Part II
+ 6. Modules
+ 7. Input and Output
+ 8. Errors and Exceptions
+ 9. Classes
+ 10. Brief Tour of the Standard Library
+ 11. Brief Tour of the Standard Library – Part II
 
 Day 4. - 5.
 -----------

@@ -20,7 +20,7 @@ Creating requirements.txt file with all names of libraries and versions is good 
 
 In the file::
 
-    <nazwa-biblioteki>==<wersja-biblioteki>
+    <lib_name>==<lib_version>
 
 To intstall dependencies from file execute command::
 
